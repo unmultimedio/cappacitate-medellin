@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/ColorActionBar</item>
+        <item name="colorPrimary">@color/verde_ruta_n</item>
+    </style>
+    
+    <style name="ColorActionBar" parent="Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/verde_ruta_n</item>
+    </style>
+
+
+
+</resources>

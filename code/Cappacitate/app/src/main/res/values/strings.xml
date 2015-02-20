@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cappacitate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="mi_btn">Haz clic!</string>
+    <string name="mi_btn2">Haz clic 2!</string>
+    <string name="mi_btn3">Haz clic 3!</string>
+    <string name="msj">Has hecho clic en el botón:</string>
+
+</resources>
