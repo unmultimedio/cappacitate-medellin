@@ -1,1 +1,1 @@
-include ':app', ':layouts'
+include ':app', ':layouts', ':prefscompartidas'

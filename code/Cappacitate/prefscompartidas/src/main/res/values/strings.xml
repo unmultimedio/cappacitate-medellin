@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PrefsCompartidas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="lbl_entrada">Ingresa algunos datos</string>
+
+    <string name="hint_char">Dato caracter</string>
+    <string name="hint_int">Dato entero</string>
+    <string name="hint_boolean">Dato booleano</string>
+
+    <string name="btn_save">Guardar</string>
+    <string name="btn_clear">Limpiar</string>
+
+    <string name="no_value">NULL</string>
+
+</resources>
