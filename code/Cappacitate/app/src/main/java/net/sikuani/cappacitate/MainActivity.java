@@ -12,7 +12,7 @@ public class MainActivity extends ActionBarActivity {
 
     // Tutorial Instalar Genymotion:
     // http://tleyden.github.io/blog/2013/11/22/android-studio-plus-genymotion-emulator/
-    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
