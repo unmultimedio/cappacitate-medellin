@@ -1,1 +1,1 @@
-include ':app', ':layouts', ':prefscompartidas', ':fragmentos'
+include ':app', ':layouts', ':prefscompartidas', ':fragmentos', ':notifications'

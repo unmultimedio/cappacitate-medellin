@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentos/fragmentos.iml" filepath="$PROJECT_DIR$/fragmentos/fragmentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/layouts/layouts.iml" filepath="$PROJECT_DIR$/layouts/layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notifications/notifications.iml" filepath="$PROJECT_DIR$/notifications/notifications.iml" />
       <module fileurl="file://$PROJECT_DIR$/prefscompartidas/prefscompartidas.iml" filepath="$PROJECT_DIR$/prefscompartidas/prefscompartidas.iml" />
     </modules>
   </component>
