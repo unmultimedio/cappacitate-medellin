@@ -10,6 +10,12 @@
         android:id="@+id/senderText"
         android:hint="@string/hint_sender"/>
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/senderSubtitle"
+        android:hint="@string/hint_sender"/>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

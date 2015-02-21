@@ -9,6 +9,6 @@ public interface Communicator {
 
     public void btnClicked(View view);
 
-    public void sendContent(String content);
+    public void sendContent(String[] content);
 
 }

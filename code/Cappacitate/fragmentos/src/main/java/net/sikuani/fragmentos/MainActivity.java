@@ -55,7 +55,7 @@ public class MainActivity extends ActionBarActivity implements Communicator {
     }
 
     @Override
-    public void sendContent(String content) {
+    public void sendContent(String[] content) {
         fragment2.receiveData(content);
     }
 }

@@ -36,8 +36,12 @@ public class Sender extends Fragment {
 
     public void retrieveInfo(){
         EditText text = (EditText) getActivity().findViewById(R.id.senderText);
+        EditText text2 = (EditText) getActivity().findViewById(R.id.senderSubtitle);
 
-        String content = text.getText().toString();
+        String[] content = new String[2];
+
+        content[0] = text.getText().toString();
+        content[1] = text2.getText().toString();
 
         interfaz.sendContent(content);
 
